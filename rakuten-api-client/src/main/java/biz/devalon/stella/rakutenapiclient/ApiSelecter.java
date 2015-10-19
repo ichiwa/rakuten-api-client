@@ -33,7 +33,7 @@ import biz.devalon.stella.rakutenapiclient.api.books.BooksCdApi;
 import biz.devalon.stella.rakutenapiclient.api.books.BooksDvdApi;
 import biz.devalon.stella.rakutenapiclient.api.books.BooksForeignBookApi;
 import biz.devalon.stella.rakutenapiclient.api.books.BooksGameApi;
-import biz.devalon.stella.rakutenapiclient.api.books.BooksGenereApi;
+import biz.devalon.stella.rakutenapiclient.api.books.BooksGenreApi;
 import biz.devalon.stella.rakutenapiclient.api.books.BooksMagazineApi;
 import biz.devalon.stella.rakutenapiclient.api.books.BooksSoftwareApi;
 import biz.devalon.stella.rakutenapiclient.api.books.BooksTotalApi;
@@ -75,8 +75,8 @@ public enum ApiSelecter {
     BooksDvd(BooksDvdApi.class),
     BooksForeignBook(BooksForeignBookApi.class),
     BooksGame(BooksGameApi.class),
-    BooksGenere(BooksGenereApi.class),
-    BooksMagazin(BooksMagazineApi.class),
+    BooksGenre(BooksGenreApi.class),
+    BooksMagazine(BooksMagazineApi.class),
     BooksSoftware(BooksSoftwareApi.class),
     BooksTotal(BooksTotalApi.class),
 

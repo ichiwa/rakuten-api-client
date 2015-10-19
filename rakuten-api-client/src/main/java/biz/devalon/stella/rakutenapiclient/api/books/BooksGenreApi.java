@@ -31,7 +31,7 @@ import java.util.HashMap;
 /**
  * Created by ichiwa on 2015/10/15.
  */
-public class BooksGenereApi extends BaseApi {
+public class BooksGenreApi extends BaseApi {
 
     private final String BASE_URL = Common.BOOKS_GENRE_URL;
     private final String VERSION = Common.BOOKS_GENRE_VERSION;
