@@ -9,7 +9,7 @@ android {
         minSdkVersion 10
         targetSdkVersion 22
         versionCode 1
-        versionName "0.0.5"
+        versionName "0.0.6"
     }
     buildTypes {
         release {
@@ -33,7 +33,7 @@ publish {
     userOrg = 'ichiwa'
     groupId = 'biz.devalon.stella'
     artifactId = 'rakutenapiclient'
-    publishVersion = "0.0.5"
+    publishVersion = "0.0.6"
     desc = 'Non official android client for Rakuten API. '
     website = 'https://github.com/ichiwa/rakuten-api-client'
 }
