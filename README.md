@@ -4,7 +4,7 @@ Non official android client for [Rakuten API](https://webservice.rakuten.co.jp/d
 # Usage
 ```
 dependencies {
-  compile 'biz.devalon.stella:rakutenapiclient:0.0.6'
+  compile 'biz.devalon.stella:rakutenapiclient:0.0.7'
 }
 ```
 
